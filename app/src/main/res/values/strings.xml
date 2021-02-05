@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1Exo8</string>
+    <string name="valence">Valence</string>
+    <string name="montpellier">Montpellier</string>
+    <string name="paris">Paris</string>
+    <string name="lyon">Lyon</string>
+    <string name="toulouse">Toulouse</string>
+</resources>
